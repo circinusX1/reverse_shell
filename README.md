@@ -23,5 +23,7 @@ cat  /etc/.meiot_rev_cred
 ```
    * Use the above credentials and goto 'https://mylinuz.com/'
    * Click the red terminal in the to right corner.
+   * Continue reading on https://github.com/circinusX1/reverse_shell/wiki
+   
 
 
